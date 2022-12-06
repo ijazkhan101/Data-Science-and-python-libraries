@@ -26,3 +26,5 @@ a=2
 lessthan3 = a< 3
 
 print(lessthan3 )
+firstname =input("Enter your name:")
+age =input("your age :")
